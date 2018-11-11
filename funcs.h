@@ -1,4 +1,4 @@
-// çàãîëîâî÷íûé ôàéë funcs.h
+//Hi!
 #ifndef __FUNCS_H__ 
 #define __FUNCS_H__
 
